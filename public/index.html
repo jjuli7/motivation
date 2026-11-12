@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="theme-color" content="#000000" />
+  <title>Motivation</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div id="start" class="start">
+    <button id="startBtn" class="start-btn">ENTRAR</button>
+    <p id="startInfo" class="start-info"></p>
+  </div>
+
+  <main id="stage" class="stage" hidden>
+    <div id="slide" class="slide"></div>
+
+    <div class="hud">
+      <div class="track" id="track"></div>
+      <div class="controls">
+        <button id="prevSong" title="Cancion anterior (Q)">&#9198;</button>
+        <button id="playPause" title="Pausar musica (M)">&#10074;&#10074;</button>
+        <button id="nextSong" title="Siguiente cancion (E)">&#9197;</button>
+        <button id="auto" title="Auto-avance (A)">AUTO</button>
+        <button id="clipSound" title="Sonido de clips (S)">CLIP &#128263;</button>
+        <button id="fs" title="Pantalla completa (F)">&#9974;</button>
+      </div>
+    </div>
+    <div class="counter" id="counter"></div>
+  </main>
+
+  <audio id="audio" preload="auto"></audio>
+  <script src="/app.js"></script>
+</body>
+</html>
