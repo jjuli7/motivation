@@ -1,0 +1,584 @@
+{
+ "images/art-cole-savage.jpg": {
+  "title": "Cole Thomas The Course of Empire The Savage State 1836.jpg",
+  "author": "Thomas Cole",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"
+ },
+ "images/art-cole-arcadian.jpg": {
+  "title": "Cole Thomas The Course of Empire The Arcadian or Pastoral State 1836.jpg",
+  "author": "Thomas Cole",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"
+ },
+ "images/art-cole-consummation.jpg": {
+  "title": "Cole Thomas The Consummation The Course of the Empire 1836.jpg",
+  "author": "Thomas Cole",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg"
+ },
+ "images/art-cole-destruction.jpg": {
+  "title": "Cole Thomas The Course of Empire Destruction 1836.jpg",
+  "author": "Thomas Cole",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg"
+ },
+ "images/art-cole-desolation.jpg": {
+  "title": "Cole Thomas The Course of Empire Desolation 1836.jpg",
+  "author": "Thomas Cole",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg"
+ },
+ "images/art-titian-sisyphus.jpg": {
+  "title": "Titian - Sisyphus - Madrid - Prado.jpg",
+  "author": "Titian",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Sisyphus_-_Madrid_-_Prado.jpg"
+ },
+ "images/art-goya-saturn.jpg": {
+  "title": "Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg",
+  "author": "Francisco Goya",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg"
+ },
+ "images/art-friedrich-wanderer.jpg": {
+  "title": "Caspar David Friedrich - Wanderer above the sea of fog.jpg",
+  "author": "Caspar David Friedrich",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+ },
+ "images/art-turner-temeraire.jpg": {
+  "title": "The Fighting Temeraire, JMW Turner, National Gallery.jpg",
+  "author": "J. M. W. Turner",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+ },
+ "images/art-david-socrates.jpg": {
+  "title": "David - The Death of Socrates.jpg",
+  "author": "Jacques-Louis David",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:David_-_The_Death_of_Socrates.jpg"
+ },
+ "images/art-david-horatii.jpg": {
+  "title": "Jacques-Louis David - Oath of the Horatii - Google Art Project.jpg",
+  "author": "Anne-Louis Girodet / After Jacques-Louis David",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg"
+ },
+ "images/art-david-napoleon-study.jpg": {
+  "title": "Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project.jpg",
+  "author": "Jacques-Louis David",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+ },
+ "images/art-delaroche-napoleon.jpg": {
+  "title": "Napoleon at Fontainebleau, 31 March 1814 (by Hippolyte Paul Delaroche).jpg",
+  "author": "Paul Delaroche",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Napoleon_at_Fontainebleau,_31_March_1814_(by_Hippolyte_Paul_Delaroche).jpg"
+ },
+ "images/art-gros-arcole.jpg": {
+  "title": "Antoine-Jean Gros - Bonaparte au pont d'Arcole(1796).jpg",
+  "author": "Antoine-Jean Gros",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Antoine-Jean_Gros_-_Bonaparte_au_pont_d%27Arcole(1796).jpg"
+ },
+ "images/art-durer-melencolia.jpg": {
+  "title": "Albrecht Dürer - Melencolia I - Google Art Project (427760).jpg",
+  "author": "Albrecht Dürer",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(427760).jpg"
+ },
+ "images/art-bruegel-babel.jpg": {
+  "title": "Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg",
+  "author": "Pieter Bruegel the Elder",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg"
+ },
+ "images/art-aivazovsky-ninth-wave.jpg": {
+  "title": "Aivazovsky, Ivan - The Ninth Wave.jpg",
+  "author": "Ivan Aivazovsky",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aivazovsky,_Ivan_-_The_Ninth_Wave.jpg"
+ },
+ "images/art-gerome-pollice.jpg": {
+  "title": "Jean-Leon Gerome Pollice Verso.jpg",
+  "author": "Jean-Léon Gérôme",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg"
+ },
+ "images/art-gerome-caesar.jpg": {
+  "title": "Jean-Léon Gérôme - The Death of Caesar - Walters 37884.jpg",
+  "author": "Jean-Léon Gérôme",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Death_of_Caesar_-_Walters_37884.jpg"
+ },
+ "images/art-raphael-athens.jpg": {
+  "title": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg",
+  "author": "Raphael",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+ },
+ "images/art-rubens-prometheus.jpg": {
+  "title": "Peter Paul Rubens, Flemish (active Italy, Antwerp, and England) - Prometheus Bound - Google Art Project.jpg",
+  "author": "Frans Snyders / Peter Paul Rubens",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg"
+ },
+ "images/art-draper-icarus.jpg": {
+  "title": "Herbert Draper - The Lament for Icarus - Google Art Project.jpg",
+  "author": "Herbert James Draper",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Herbert_Draper_-_The_Lament_for_Icarus_-_Google_Art_Project.jpg"
+ },
+ "images/art-waterhouse-diogenes.jpg": {
+  "title": "John Waterhouse - Diogenes - Google Art Project.jpg",
+  "author": "John Waterhouse (1849 - 1917) – creator Details on Google Art Project",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Waterhouse_-_Diogenes_-_Google_Art_Project.jpg"
+ },
+ "images/art-leutze-washington.jpg": {
+  "title": "Washington Crossing the Delaware by Emanuel Leutze, MMA-NYC, 1851.jpg",
+  "author": "Emanuel Leutze",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg"
+ },
+ "images/art-gericault-medusa.jpg": {
+  "title": "JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg",
+  "author": "Théodore Géricault",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg"
+ },
+ "images/art-rembrandt-tulp.jpg": {
+  "title": "Rembrandt - The Anatomy Lesson of Dr Nicolaes Tulp.jpg",
+  "author": "Rembrandt",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg"
+ },
+ "images/art-farnese-atlas.jpg": {
+  "title": "Farnese Atlas statue Naples Archaeological Museum 2024.jpg",
+  "author": "Furkan Akkurt",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Farnese_Atlas_statue_Naples_Archaeological_Museum_2024.jpg"
+ },
+ "images/art-moreau-hercules-hydra.jpg": {
+  "title": "Hercules and the Lernaean Hydra, 1875-1876, by Gustave Moreau - Art Institute of Chicago - DSC09590.JPG",
+  "author": "Gustave Moreau",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hercules_and_the_Lernaean_Hydra,_1875-1876,_by_Gustave_Moreau_-_Art_Institute_of_Chicago_-_DSC09590.JPG"
+ },
+ "images/art-champaigne-vanitas.jpg": {
+  "title": "StillLifeWithASkull.jpg",
+  "author": "Philippe de Champaigne",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:StillLifeWithASkull.jpg"
+ },
+ "images/art-alexander-mosaic.jpg": {
+  "title": "Alexander and Bucephalus - Battle of Issus mosaic - Museo Archeologico Nazionale - Naples BW.jpg",
+  "author": "Unknown creatorUnknown creator",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_BW.jpg"
+ },
+ "images/art-menzel-iron-rolling-mill.jpg": {
+  "title": "Adolph-Menzel-German-Eisenwalzwerk-Moderne-Cyklopen-The-Iron-Rolling-Mill-Modern-Cyclopes-.jpg",
+  "author": "Adolph von Menzel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Adolph-Menzel-German-Eisenwalzwerk-Moderne-Cyklopen-The-Iron-Rolling-Mill-Modern-Cyclopes-.jpg"
+ },
+ "images/art-wright-orrery.jpg": {
+  "title": "Wright of Derby, The Orrery.jpg",
+  "author": "Joseph Wright of Derby",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg"
+ },
+ "images/art-wright-air-pump.jpg": {
+  "title": "An Experiment on a Bird in an Air Pump by Joseph Wright of Derby, 1768.jpg",
+  "author": "Joseph Wright of Derby",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg"
+ },
+ "images/art-rembrandt-philosopher.jpg": {
+  "title": "Rembrandt-Philosophe en méditation-1632-Louvre.jpg",
+  "author": "Curiographe",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt-Philosophe_en_m%C3%A9ditation-1632-Louvre.jpg"
+ },
+ "images/art-dore-paradise.jpg": {
+  "title": "Paradise Lost 12.jpg",
+  "author": "Gustave Doré",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Paradise_Lost_12.jpg"
+ },
+ "images/art-michelangelo-david.jpg": {
+  "title": "Michelangelo's David 2015.jpg",
+  "author": "Livioandronico2013",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_2015.jpg"
+ },
+ "images/f9-landing.jpg": {
+  "title": "Falcon 9 first stage at LZ-1(two).jpg",
+  "author": "SpaceX Photos",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Falcon_9_first_stage_at_LZ-1(two).jpg"
+ },
+ "images/f9-landing-2.jpg": {
+  "title": "Falcon 9 first stage landing on Droneship.jpg",
+  "author": "SpaceX",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Falcon_9_first_stage_landing_on_Droneship.jpg"
+ },
+ "images/saturn-v-1.jpg": {
+  "title": "Apollo 11 Launch - GPN-2000-000630.jpg",
+  "author": "NASA",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg"
+ },
+ "images/shuttle-night.jpg": {
+  "title": "Space Shuttle Discovery under a full moon, 03-11-09.jpg",
+  "author": "NASA/Bill Inglais",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Discovery_under_a_full_moon,_03-11-09.jpg"
+ },
+ "images/artemis-1.jpg": {
+  "title": "Launch of Artemis 1 (KSC 20221115 Artemis I Launch-2).jpg",
+  "author": "NASA/STEVEN SEIPEL",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Launch_of_Artemis_1_(KSC_20221115_Artemis_I_Launch-2).jpg"
+ },
+ "images/artemis-2.jpg": {
+  "title": "Artemis I Launch (NHQ202211160010).jpg",
+  "author": "Joel Kowsky",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160010).jpg"
+ },
+ "images/rs25-2.jpg": {
+  "title": "NASA Conducts Hot Fire of RS-25 Engine (hot-fire-of-rs25-engine - 4h).jpg",
+  "author": "NASA/Chris Russell",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:NASA_Conducts_Hot_Fire_of_RS-25_Engine_(hot-fire-of-rs25-engine_-_4h).jpg"
+ },
+ "images/lhc.jpg": {
+  "title": "Views of the LHC tunnel sector 3-4, tirage 2.jpg",
+  "author": "Maximilien Brice (CERN)",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Views_of_the_LHC_tunnel_sector_3-4,_tirage_2.jpg"
+ },
+ "images/atlas-cern.jpg": {
+  "title": "Atlas detector CERN feb2007.jpg",
+  "author": "Sindre Skrede",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Atlas_detector_CERN_feb2007.jpg"
+ },
+ "images/wafer-2.jpg": {
+  "title": "Silicon wafer researcher.jpg",
+  "author": "U.S. Department of Energy",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg"
+ },
+ "images/skyscraper-workers-1.jpg": {
+  "title": "Lunch atop a Skyscraper.jpg",
+  "author": "",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Lunch_atop_a_Skyscraper.jpg"
+ },
+ "images/mission-control.jpg": {
+  "title": "Mission Operations Control Room during Apollo 9.jpg",
+  "author": "NASA",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Mission_Operations_Control_Room_during_Apollo_9.jpg"
+ },
+ "images/jwst-mirror-2.jpg": {
+  "title": "James Webb Primary Mirror.jpg",
+  "author": "NASA/MSFC/David Higginbotham",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:James_Webb_Primary_Mirror.jpg"
+ },
+ "images/countach.jpg": {
+  "title": "Lamborghini Countach LP 5000S 1983.jpg",
+  "author": "Palauenc05",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LP_5000S_1983.jpg"
+ },
+ "images/porsche911-1.jpg": {
+  "title": "Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg",
+  "author": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_GT3_Touring,_IAA_2017,_Frankfurt_(1Y7A2766).jpg"
+ },
+ "images/f40-1.jpg": {
+  "title": "Ferrari F40, TC 24, Essen (TCE43319-RR).jpg",
+  "author": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg"
+ },
+ "images/f1.jpg": {
+  "title": "2015 Malaysian GP opening lap.jpg",
+  "author": "Morio",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg"
+ },
+ "images/senna.jpg": {
+  "title": "Ayrton Senna McLaren MP4-6 1991 United States.jpg",
+  "author": "wileynorwichphoto",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ayrton_Senna_McLaren_MP4-6_1991_United_States.jpg"
+ },
+ "images/bugatti.jpg": {
+  "title": "Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg",
+  "author": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1765).jpg"
+ },
+ "images/nyse-1.jpg": {
+  "title": "NY stock exchange traders floor LC-U9-10548-6.jpg",
+  "author": "Thomas J. O'Halloran",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+ },
+ "images/wallst.jpg": {
+  "title": "Wall Street at night, New York, New York - 20221123.jpg",
+  "author": "Andre Carrotflower",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Wall_Street_at_night,_New_York,_New_York_-_20221123.jpg"
+ },
+ "images/manhattan-night-1.jpg": {
+  "title": "Lower Manhattan from Jersey City September 2020 panorama.jpg",
+  "author": "King of Hearts",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_September_2020_panorama.jpg"
+ },
+ "images/manhattan-aerial-1.jpg": {
+  "title": "Aerial view of Lower Manhattan and Battery Park at dusk.jpg",
+  "author": "SebastianBlumeArt",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lower_Manhattan_and_Battery_Park_at_dusk.jpg"
+ },
+ "images/london-city-2.jpg": {
+  "title": "City of London. Night time lights.jpg",
+  "author": "Redbannana",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:City_of_London._Night_time_lights.jpg"
+ },
+ "images/canary.jpg": {
+  "title": "Canary Wharf from Limehouse London June 2016 HDR.jpg",
+  "author": "King of Hearts",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg"
+ },
+ "images/hongkong-1.jpg": {
+  "title": "Hong Kong Harbour Night 2019-06-11.jpg",
+  "author": "Benh LIEU SONG (Flickr)",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
+ },
+ "images/gold.jpg": {
+  "title": "Bullion Gold bar at Swiss Money Museum (Ank Kumar, Infosys).jpg",
+  "author": "Ank Kumar",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bullion_Gold_bar_at_Swiss_Money_Museum_(Ank_Kumar,_Infosys).jpg"
+ },
+ "images/jobs.jpg": {
+  "title": "Steve Jobs and Macintosh computer, January 1984, by Bernard Gotfryd - edited.jpg",
+  "author": "Photo: Bernard Gotfryd - Edited from tif by Cart",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_and_Macintosh_computer,_January_1984,_by_Bernard_Gotfryd_-_edited.jpg"
+ },
+ "images/musk-1.jpg": {
+  "title": "Elon Musk Royal Society.jpg",
+  "author": "Duncan.Hull",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society.jpg"
+ },
+ "images/huang.jpg": {
+  "title": "Jensen Huang Stanford 2026-04-30 010 (cropped).jpg",
+  "author": "Anderseidesvik",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+ },
+ "images/bezos.jpg": {
+  "title": "Jeff Bezos' iconic laugh crop.jpg",
+  "author": "Jeff_Bezos'_iconic_laugh.jpg: Steve Jurvetson\nderivative work: King of Hearts",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos%27_iconic_laugh_crop.jpg"
+ },
+ "images/feynman-2.jpg": {
+  "title": "Richard Feynman 1988.png",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Richard_Feynman_1988.png"
+ },
+ "images/tesla-2.jpg": {
+  "title": "Photo of Nikola Tesla upon his arrival in USA.jpg",
+  "author": "Napoleon Sarony",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Photo_of_Nikola_Tesla_upon_his_arrival_in_USA.jpg"
+ },
+ "images/einstein-1.jpg": {
+  "title": "Albert Einstein Head cleaned.jpg",
+  "author": "Oren Jack Turner",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg"
+ },
+ "images/churchill-2.jpg": {
+  "title": "Winston Churchill - The Roaring Lion - colourised.jpg",
+  "author": "Dgp4004",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Winston_Churchill_-_The_Roaring_Lion_-_colourised.jpg"
+ },
+ "images/ali.jpg": {
+  "title": "Muhammad Ali NYWTS.jpg",
+  "author": "Ira Rosenberg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg"
+ },
+ "images/troosevelt.jpg": {
+  "title": "Theodore Roosevelt by the Pach Bros.jpg",
+  "author": "Adam Cuerden",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg"
+ },
+ "images/wright.jpg": {
+  "title": "First flight3.jpg",
+  "author": "John T. Daniels",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:First_flight3.jpg"
+ },
+ "images/ford-1.jpg": {
+  "title": "Henry Ford portrait 1915 cropped.png",
+  "author": "Ford Motor Company. Photographic Department",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Henry_Ford_portrait_1915_cropped.png"
+ },
+ "images/carnegie-2.jpg": {
+  "title": "Andrew Carnegie, three-quarter length portrait, seated, facing slightly left, 1913 (cropped).jpg",
+  "author": "Theodore C. Marceau",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Andrew_Carnegie,_three-quarter_length_portrait,_seated,_facing_slightly_left,_1913_(cropped).jpg"
+ },
+ "images/rockefeller-1.jpg": {
+  "title": "Portrait of John D. Rockefeller.jpg",
+  "author": "Pach Brothers Studio",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_John_D._Rockefeller.jpg"
+ },
+ "images/jpmorgan-1.jpg": {
+  "title": "J. P. Morgan in 1902 (cropped).jpg",
+  "author": "Pach Brothers",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:J._P._Morgan_in_1902_(cropped).jpg"
+ },
+ "images/zuckerberg-2.jpg": {
+  "title": "Mark Zuckerberg - South by Southwest 2008 - 2-crop.jpg",
+  "author": "Jason McELweenie",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008_-_2-crop.jpg"
+ },
+ "images/munger-1.jpg": {
+  "title": "Charlie Munger.jpg",
+  "author": "Nick",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Charlie_Munger.jpg"
+ },
+ "images/library.jpg": {
+  "title": "NYC Public Library Research Room Jan 2006-1- 3.jpg",
+  "author": "Diliff",
+  "license": "CC BY 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg"
+ },
+ "images/rowing-2.jpg": {
+  "title": "Harvard Rowing Crew at Henley 2004.JPG",
+  "author": "",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Harvard_Rowing_Crew_at_Henley_2004.JPG"
+ },
+ "images/marcus-1.jpg": {
+  "title": "Portrait of Marcus Aurelius in the Baths of Diocletian (Rome).jpg",
+  "author": "Livioandronico2013",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Marcus_Aurelius_in_the_Baths_of_Diocletian_(Rome).jpg"
+ },
+ "images/seneca-1.jpg": {
+  "title": "Bust of Pseudo-Seneca MET DP359039.jpg",
+  "author": "Peter Paul Rubens",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bust_of_Pseudo-Seneca_MET_DP359039.jpg"
+ },
+ "images/caesar-bust.jpg": {
+  "title": "The \"Tusculum portrait\", a rare bust of Julius Caesar in his lifetime, 45 - 43 BC, Moi, Auguste, Empereur de Rome exhibition, Grand Palais, Paris - 14628246546.jpg",
+  "author": "Following Hadrian",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:The_%22Tusculum_portrait%22,_a_rare_bust_of_Julius_Caesar_in_his_lifetime,_45_-_43_BC,_Moi,_Auguste,_Empereur_de_Rome_exhibition,_Grand_Palais,_Paris_-_14628246546.jpg"
+ },
+ "images/colosseum-1.jpg": {
+  "title": "Colosseum exterior at night, Rome, Italy (Ank Kumar) 11.jpg",
+  "author": "Ank Kumar",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Colosseum_exterior_at_night,_Rome,_Italy_(Ank_Kumar)_11.jpg"
+ },
+ "images/pyramids-2.jpg": {
+  "title": "Spelterini Pyramids.jpg",
+  "author": "Eduard Spelterini",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg"
+ },
+ "images/nasa-blue-marble.jpg": {
+  "title": "as17-148-22727",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/as17-148-22727"
+ },
+ "images/nasa-aldrin-visor.jpg": {
+  "title": "as11-40-5903",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/as11-40-5903"
+ },
+ "images/nasa-shuttle-launch.jpg": {
+  "title": "8111969",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/8111969"
+ },
+ "images/nasa-carina-webb.jpg": {
+  "title": "carina_nebula",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/carina_nebula"
+ },
+ "images/nasa-earthrise.jpg": {
+  "title": "as08-14-2383",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/as08-14-2383"
+ },
+ "videos/nasa-artemis-i-launch.mp4": {
+  "title": "Artemis I Launch 2022 CU tracking from Press Site_compressed (fragmento)",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/Artemis%20I%20Launch%202022%20CU%20tracking%20from%20Press%20Site_compressed"
+ },
+ "videos/nasa-rs25-hot-fire.mp4": {
+  "title": "SSC_2023-03-21_RS-25_Engine_Test (fragmento)",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/SSC_2023-03-21_RS-25_Engine_Test"
+ },
+ "videos/nasa-rs25-nozzle.mp4": {
+  "title": "SSC_2023-03-21_RS-25_Engine_Test (fragmento)",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/SSC_2023-03-21_RS-25_Engine_Test"
+ },
+ "videos/nasa-spacex-crew4-launch.mp4": {
+  "title": "KSC-20220427-VP-MWC01-0001-SpaceX_Crew_4_highlights-3301760 (fragmento)",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/KSC-20220427-VP-MWC01-0001-SpaceX_Crew_4_highlights-3301760"
+ },
+ "videos/nasa-crew4-walkout.mp4": {
+  "title": "KSC-20220427-VP-MWC01-0001-SpaceX_Crew_4_highlights-3301760 (fragmento)",
+  "author": "NASA",
+  "license": "Public domain (NASA)",
+  "source": "https://images.nasa.gov/details/KSC-20220427-VP-MWC01-0001-SpaceX_Crew_4_highlights-3301760"
+ }
+}
