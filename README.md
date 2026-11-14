@@ -19,12 +19,20 @@ Subcarpetas permitidas. Commit + push; Vercel regenera `manifest.json` en cada d
 | Siguiente | flecha derecha/abajo, espacio | click en los 2/3 derechos, swipe izq/arriba |
 | Anterior | flecha izquierda/arriba | click en el 1/3 izquierdo, swipe der/abajo |
 | Pausar musica | M | boton |
-| Cancion sig./ant. | E / Q | botones |
+| Cancion aleatoria | E o N | SKIP |
+| Cancion anterior / reiniciar | Q | boton |
+| Volumen | + / - | slider (click en el icono silencia) |
 | Auto-avance | A | AUTO |
 | Sonido de clips (baja la musica) | S | CLIP |
 | Pantalla completa | F | boton |
 
 Duracion de imagen en AUTO: `IMAGE_SECONDS` en `public/app.js`.
+
+## Imagenes de baja resolucion
+
+Las imagenes con lado largo < 1280 px se escalaron con Real-ESRGAN (`realesr-general-x4v3`) a 1920 px,
+mezclado 60/40 con Lanczos para evitar artefactos. Para nuevas imagenes chicas, el mismo proceso
+se puede repetir antes de subirlas.
 
 ## Local
 

@@ -17,12 +17,16 @@
   <main id="stage" class="stage" hidden>
     <div id="slide" class="slide"></div>
 
-    <div class="hud">
+    <div class="hud" id="hud">
       <div class="track" id="track"></div>
       <div class="controls">
-        <button id="prevSong" title="Cancion anterior (Q)">&#9198;</button>
+        <button id="prevSong" title="Cancion anterior / reiniciar (Q)">&#9198;</button>
         <button id="playPause" title="Pausar musica (M)">&#10074;&#10074;</button>
-        <button id="nextSong" title="Siguiente cancion (E)">&#9197;</button>
+        <button id="nextSong" title="Cancion aleatoria (E)">&#128256; SKIP</button>
+        <span class="vol">
+          <button id="volIcon" title="Silenciar">&#128266;</button>
+          <input id="volume" type="range" min="0" max="100" value="80" aria-label="Volumen" title="Volumen (+/-)" />
+        </span>
         <button id="auto" title="Auto-avance (A)">AUTO</button>
         <button id="clipSound" title="Sonido de clips (S)">CLIP &#128263;</button>
         <button id="fs" title="Pantalla completa (F)">&#9974;</button>

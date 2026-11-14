@@ -25,13 +25,20 @@ html, body { height: 100%; background: #000; color: #fff; overflow: hidden;
 .track { font-size: 12px; opacity: .8; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 .controls { display: flex; gap: 6px; flex-shrink: 0; }
 .controls button { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.2);
-  color: #fff; font: inherit; font-size: 12px; padding: 8px 10px; cursor: pointer; }
+  color: #fff; font: inherit; font-size: 12px; padding: 8px 10px; cursor: pointer; white-space: nowrap; }
 .controls button.on { background: #fff; color: #000; }
+.vol { display: flex; align-items: center; gap: 6px; }
+.vol input { width: 90px; accent-color: #fff; cursor: pointer; }
+.slide img { image-rendering: auto; image-rendering: high-quality; }
 .counter { position: fixed; top: 12px; right: 16px; font-size: 11px; opacity: .35; }
 .empty { opacity: .5; font-size: 14px; text-align: center; padding: 16px; }
 
 @media (max-width: 600px) {
   .hud { flex-direction: column; align-items: stretch; opacity: 1; }
   .controls { justify-content: space-between; }
+  .controls { flex-wrap: wrap; }
   .controls button { flex: 1; padding: 10px 4px; }
+  .vol { flex-basis: 100%; order: -1; }
+  .vol button { flex: 0 0 44px; }
+  .vol input { flex: 1; width: auto; }
 }
