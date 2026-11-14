@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Credits</title>
+  <style>
+    body { background: #000; color: #ddd; font: 13px/1.6 ui-monospace, Menlo, Consolas, monospace; margin: 0; padding: 32px 16px; }
+    main { max-width: 900px; margin: 0 auto; }
+    h1 { font-size: 16px; letter-spacing: 4px; font-weight: normal; }
+    a { color: #fff; }
+    li { margin-bottom: 8px; word-break: break-word; }
+    .muted { color: #777; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>CREDITS</h1>
+    <p class="muted">Media de terceros con licencia libre (dominio publico / Creative Commons). <a href="/">volver</a></p>
+    <ol id="list"></ol>
+  </main>
+  <script>
+    fetch("/media/credits.json").then((r) => r.json()).then((c) => {
+      const list = document.getElementById("list");
+      Object.entries(c).sort().forEach(([file, m]) => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = m.source; a.textContent = m.title; a.target = "_blank"; a.rel = "noopener";
+        li.append(a, document.createTextNode(` — ${m.author || "desconocido"} — ${m.license} `));
+        const f = document.createElement("span"); f.className = "muted"; f.textContent = `(${file})`;
+        li.append(f); list.append(li);
+      });
+    }).catch(() => {});
+  </script>
+</body>
+</html>
